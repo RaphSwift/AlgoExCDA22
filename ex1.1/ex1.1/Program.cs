@@ -1,6 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 
-/*INPUT
+/*VARIABLES
  * Double userInputN1;
  * 
  * Double userInputN2;

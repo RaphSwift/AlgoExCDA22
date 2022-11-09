@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raph\\GIT\\Algo\\TesterEtConvertirUnStringVersNumerique\\TesterEtConvertirUnStringVersNumerique.csproj": {}
+    "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\TesterEtConvertirUnStringVersNumerique\\TesterEtConvertirUnStringVersNumerique.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raph\\GIT\\Algo\\TesterEtConvertirUnStringVersNumerique\\TesterEtConvertirUnStringVersNumerique.csproj": {
+    "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\TesterEtConvertirUnStringVersNumerique\\TesterEtConvertirUnStringVersNumerique.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raph\\GIT\\Algo\\TesterEtConvertirUnStringVersNumerique\\TesterEtConvertirUnStringVersNumerique.csproj",
+        "projectUniqueName": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\TesterEtConvertirUnStringVersNumerique\\TesterEtConvertirUnStringVersNumerique.csproj",
         "projectName": "TesterEtConvertirUnStringVersNumerique",
-        "projectPath": "C:\\Users\\Raph\\GIT\\Algo\\TesterEtConvertirUnStringVersNumerique\\TesterEtConvertirUnStringVersNumerique.csproj",
+        "projectPath": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\TesterEtConvertirUnStringVersNumerique\\TesterEtConvertirUnStringVersNumerique.csproj",
         "packagesPath": "C:\\Users\\Raph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raph\\GIT\\Algo\\TesterEtConvertirUnStringVersNumerique\\obj\\",
+        "outputPath": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\TesterEtConvertirUnStringVersNumerique\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

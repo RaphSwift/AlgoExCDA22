@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raph\\GIT\\Algo\\ex1.1\\ex1.1\\ex1.1.csproj": {}
+    "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\ex1.1\\ex1.1\\ex1.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raph\\GIT\\Algo\\ex1.1\\ex1.1\\ex1.1.csproj": {
+    "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\ex1.1\\ex1.1\\ex1.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raph\\GIT\\Algo\\ex1.1\\ex1.1\\ex1.1.csproj",
+        "projectUniqueName": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\ex1.1\\ex1.1\\ex1.1.csproj",
         "projectName": "ex1.1",
-        "projectPath": "C:\\Users\\Raph\\GIT\\Algo\\ex1.1\\ex1.1\\ex1.1.csproj",
+        "projectPath": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\ex1.1\\ex1.1\\ex1.1.csproj",
         "packagesPath": "C:\\Users\\Raph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raph\\GIT\\Algo\\ex1.1\\ex1.1\\obj\\",
+        "outputPath": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\ex1.1\\ex1.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
