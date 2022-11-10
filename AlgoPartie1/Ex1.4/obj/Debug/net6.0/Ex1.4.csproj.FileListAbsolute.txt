@@ -1,0 +1,15 @@
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\Ex1.4\bin\Debug\net6.0\Ex1.4.exe
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\Ex1.4\bin\Debug\net6.0\Ex1.4.deps.json
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\Ex1.4\bin\Debug\net6.0\Ex1.4.runtimeconfig.json
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\Ex1.4\bin\Debug\net6.0\Ex1.4.dll
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\Ex1.4\bin\Debug\net6.0\Ex1.4.pdb
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\Ex1.4\obj\Debug\net6.0\Ex1.4.csproj.AssemblyReference.cache
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\Ex1.4\obj\Debug\net6.0\Ex1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\Ex1.4\obj\Debug\net6.0\Ex1.4.AssemblyInfoInputs.cache
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\Ex1.4\obj\Debug\net6.0\Ex1.4.AssemblyInfo.cs
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\Ex1.4\obj\Debug\net6.0\Ex1.4.csproj.CoreCompileInputs.cache
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\Ex1.4\obj\Debug\net6.0\Ex1.4.dll
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\Ex1.4\obj\Debug\net6.0\refint\Ex1.4.dll
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\Ex1.4\obj\Debug\net6.0\Ex1.4.pdb
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\Ex1.4\obj\Debug\net6.0\Ex1.4.genruntimeconfig.cache
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\Ex1.4\obj\Debug\net6.0\ref\Ex1.4.dll
