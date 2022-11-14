@@ -17,8 +17,8 @@
  * 
  * PROCESS
  * 
- * InteretSimple <-- S ( 1 + n * i )
-    //InteretComposé <-- S ( 1 + i )n
+ * InteretSimple <-- sumS ( 1 + numberYearsN * i )
+    //InteretComposé <-- sumS ( 1 + interestI )numberYearsN
  * 
  * OUTPUT
  * 
