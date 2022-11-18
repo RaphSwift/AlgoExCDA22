@@ -7,6 +7,7 @@
  * 
  * PROCESS
  * 
+ * 
  * Write("Saisir A");
  * Read(numberA);
  *  Write("Saisir B");
