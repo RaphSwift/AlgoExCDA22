@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\NombrePremier ex2.6\NombrePremier ex2.6.csproj" />
+  </ItemGroup>
+
 </Project>

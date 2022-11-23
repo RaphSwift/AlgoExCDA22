@@ -1,0 +1,15 @@
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\CollectionTableauApp\bin\Debug\net6.0\CollectionTableauApp.exe
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\CollectionTableauApp\bin\Debug\net6.0\CollectionTableauApp.deps.json
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\CollectionTableauApp\bin\Debug\net6.0\CollectionTableauApp.runtimeconfig.json
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\CollectionTableauApp\bin\Debug\net6.0\CollectionTableauApp.dll
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\CollectionTableauApp\bin\Debug\net6.0\CollectionTableauApp.pdb
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\CollectionTableauApp\obj\Debug\net6.0\CollectionTableauApp.csproj.AssemblyReference.cache
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\CollectionTableauApp\obj\Debug\net6.0\CollectionTableauApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\CollectionTableauApp\obj\Debug\net6.0\CollectionTableauApp.AssemblyInfoInputs.cache
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\CollectionTableauApp\obj\Debug\net6.0\CollectionTableauApp.AssemblyInfo.cs
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\CollectionTableauApp\obj\Debug\net6.0\CollectionTableauApp.csproj.CoreCompileInputs.cache
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\CollectionTableauApp\obj\Debug\net6.0\CollectionTableauApp.dll
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\CollectionTableauApp\obj\Debug\net6.0\refint\CollectionTableauApp.dll
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\CollectionTableauApp\obj\Debug\net6.0\CollectionTableauApp.pdb
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\CollectionTableauApp\obj\Debug\net6.0\CollectionTableauApp.genruntimeconfig.cache
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\CollectionTableauApp\obj\Debug\net6.0\ref\CollectionTableauApp.dll

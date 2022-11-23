@@ -1,0 +1,15 @@
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\ListApp\obj\Debug\net6.0\ListApp.csproj.AssemblyReference.cache
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\ListApp\obj\Debug\net6.0\ListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\ListApp\obj\Debug\net6.0\ListApp.AssemblyInfoInputs.cache
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\ListApp\obj\Debug\net6.0\ListApp.AssemblyInfo.cs
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\ListApp\obj\Debug\net6.0\ListApp.csproj.CoreCompileInputs.cache
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\ListApp\bin\Debug\net6.0\ListApp.exe
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\ListApp\bin\Debug\net6.0\ListApp.deps.json
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\ListApp\bin\Debug\net6.0\ListApp.runtimeconfig.json
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\ListApp\bin\Debug\net6.0\ListApp.dll
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\ListApp\bin\Debug\net6.0\ListApp.pdb
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\ListApp\obj\Debug\net6.0\ListApp.dll
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\ListApp\obj\Debug\net6.0\refint\ListApp.dll
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\ListApp\obj\Debug\net6.0\ListApp.pdb
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\ListApp\obj\Debug\net6.0\ListApp.genruntimeconfig.cache
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\ListApp\obj\Debug\net6.0\ref\ListApp.dll

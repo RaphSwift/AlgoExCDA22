@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\AlgoPartie1\\Ex2.5\\Ex2.5.csproj",
-      "projectName": "Ex2.5",
-      "projectPath": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\AlgoPartie1\\Ex2.5\\Ex2.5.csproj",
+      "projectUniqueName": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\AlgoPartie1\\Ex2.5\\Ex2_5.csproj",
+      "projectName": "Ex2_5",
+      "projectPath": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\AlgoPartie1\\Ex2.5\\Ex2_5.csproj",
       "packagesPath": "C:\\Users\\Raph\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\AlgoPartie1\\Ex2.5\\obj\\",
       "projectStyle": "PackageReference",

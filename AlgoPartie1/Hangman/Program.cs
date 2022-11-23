@@ -58,12 +58,17 @@ do
     for (int i = 1; i < tabMotCacher.Length - 1; i++)
     {
         if (tabMot[i])== user2Input)
+                }
+else
+{
+    test--;
+}
                 {
         tabMotCacher[i] = user2Input;
     }
 
 }
-}
+
 while (test > 0 || tabMotCacher == tabMot) ;
 
 

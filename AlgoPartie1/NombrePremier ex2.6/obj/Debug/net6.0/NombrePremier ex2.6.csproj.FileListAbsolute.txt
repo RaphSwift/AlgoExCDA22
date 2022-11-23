@@ -1,0 +1,5 @@
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\NombrePremier ex2.6\obj\Debug\net6.0\NombrePremier ex2.6.csproj.AssemblyReference.cache
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\NombrePremier ex2.6\obj\Debug\net6.0\NombrePremier ex2.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\NombrePremier ex2.6\obj\Debug\net6.0\NombrePremier ex2.6.AssemblyInfoInputs.cache
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\NombrePremier ex2.6\obj\Debug\net6.0\NombrePremier ex2.6.AssemblyInfo.cs
+C:\Users\Raph\GIT\AlgoExCDA22\AlgoPartie1\NombrePremier ex2.6\obj\Debug\net6.0\NombrePremier ex2.6.csproj.CoreCompileInputs.cache
