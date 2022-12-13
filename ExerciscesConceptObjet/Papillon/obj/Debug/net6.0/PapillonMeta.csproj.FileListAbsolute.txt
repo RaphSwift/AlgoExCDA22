@@ -1,0 +1,15 @@
+C:\Users\Raph\GIT\Algo\ObjetPartie1\Papillon\obj\Debug\net6.0\PapillonMeta.csproj.AssemblyReference.cache
+C:\Users\Raph\GIT\Algo\ObjetPartie1\Papillon\obj\Debug\net6.0\PapillonMeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raph\GIT\Algo\ObjetPartie1\Papillon\obj\Debug\net6.0\PapillonMeta.AssemblyInfoInputs.cache
+C:\Users\Raph\GIT\Algo\ObjetPartie1\Papillon\obj\Debug\net6.0\PapillonMeta.AssemblyInfo.cs
+C:\Users\Raph\GIT\Algo\ObjetPartie1\Papillon\obj\Debug\net6.0\PapillonMeta.csproj.CoreCompileInputs.cache
+C:\Users\Raph\GIT\Algo\ObjetPartie1\Papillon\bin\Debug\net6.0\PapillonMeta.exe
+C:\Users\Raph\GIT\Algo\ObjetPartie1\Papillon\bin\Debug\net6.0\PapillonMeta.deps.json
+C:\Users\Raph\GIT\Algo\ObjetPartie1\Papillon\bin\Debug\net6.0\PapillonMeta.runtimeconfig.json
+C:\Users\Raph\GIT\Algo\ObjetPartie1\Papillon\bin\Debug\net6.0\PapillonMeta.dll
+C:\Users\Raph\GIT\Algo\ObjetPartie1\Papillon\bin\Debug\net6.0\PapillonMeta.pdb
+C:\Users\Raph\GIT\Algo\ObjetPartie1\Papillon\obj\Debug\net6.0\PapillonMeta.dll
+C:\Users\Raph\GIT\Algo\ObjetPartie1\Papillon\obj\Debug\net6.0\refint\PapillonMeta.dll
+C:\Users\Raph\GIT\Algo\ObjetPartie1\Papillon\obj\Debug\net6.0\PapillonMeta.pdb
+C:\Users\Raph\GIT\Algo\ObjetPartie1\Papillon\obj\Debug\net6.0\PapillonMeta.genruntimeconfig.cache
+C:\Users\Raph\GIT\Algo\ObjetPartie1\Papillon\obj\Debug\net6.0\ref\PapillonMeta.dll

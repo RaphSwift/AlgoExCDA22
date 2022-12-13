@@ -1,0 +1,15 @@
+C:\Users\Raph\GIT\Algo\ObjetPartie1\ConsoleAppBouteille\bin\Debug\net6.0\ConsoleAppBouteille.exe
+C:\Users\Raph\GIT\Algo\ObjetPartie1\ConsoleAppBouteille\bin\Debug\net6.0\ConsoleAppBouteille.deps.json
+C:\Users\Raph\GIT\Algo\ObjetPartie1\ConsoleAppBouteille\bin\Debug\net6.0\ConsoleAppBouteille.runtimeconfig.json
+C:\Users\Raph\GIT\Algo\ObjetPartie1\ConsoleAppBouteille\bin\Debug\net6.0\ConsoleAppBouteille.dll
+C:\Users\Raph\GIT\Algo\ObjetPartie1\ConsoleAppBouteille\bin\Debug\net6.0\ConsoleAppBouteille.pdb
+C:\Users\Raph\GIT\Algo\ObjetPartie1\ConsoleAppBouteille\obj\Debug\net6.0\ConsoleAppBouteille.csproj.AssemblyReference.cache
+C:\Users\Raph\GIT\Algo\ObjetPartie1\ConsoleAppBouteille\obj\Debug\net6.0\ConsoleAppBouteille.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raph\GIT\Algo\ObjetPartie1\ConsoleAppBouteille\obj\Debug\net6.0\ConsoleAppBouteille.AssemblyInfoInputs.cache
+C:\Users\Raph\GIT\Algo\ObjetPartie1\ConsoleAppBouteille\obj\Debug\net6.0\ConsoleAppBouteille.AssemblyInfo.cs
+C:\Users\Raph\GIT\Algo\ObjetPartie1\ConsoleAppBouteille\obj\Debug\net6.0\ConsoleAppBouteille.csproj.CoreCompileInputs.cache
+C:\Users\Raph\GIT\Algo\ObjetPartie1\ConsoleAppBouteille\obj\Debug\net6.0\ConsoleAppBouteille.dll
+C:\Users\Raph\GIT\Algo\ObjetPartie1\ConsoleAppBouteille\obj\Debug\net6.0\refint\ConsoleAppBouteille.dll
+C:\Users\Raph\GIT\Algo\ObjetPartie1\ConsoleAppBouteille\obj\Debug\net6.0\ConsoleAppBouteille.pdb
+C:\Users\Raph\GIT\Algo\ObjetPartie1\ConsoleAppBouteille\obj\Debug\net6.0\ConsoleAppBouteille.genruntimeconfig.cache
+C:\Users\Raph\GIT\Algo\ObjetPartie1\ConsoleAppBouteille\obj\Debug\net6.0\ref\ConsoleAppBouteille.dll
