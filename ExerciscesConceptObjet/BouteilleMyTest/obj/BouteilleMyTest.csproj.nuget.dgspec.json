@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raph\\GIT\\Algo\\ObjetPartie1\\BouteilleMyTest\\BouteilleMyTest.csproj": {}
+    "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\ExerciscesConceptObjet\\BouteilleMyTest\\BouteilleMyTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raph\\GIT\\Algo\\ObjetPartie1\\BouteilleMyTest\\BouteilleMyTest.csproj": {
+    "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\ExerciscesConceptObjet\\BouteilleMyTest\\BouteilleMyTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raph\\GIT\\Algo\\ObjetPartie1\\BouteilleMyTest\\BouteilleMyTest.csproj",
+        "projectUniqueName": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\ExerciscesConceptObjet\\BouteilleMyTest\\BouteilleMyTest.csproj",
         "projectName": "BouteilleMyTest",
-        "projectPath": "C:\\Users\\Raph\\GIT\\Algo\\ObjetPartie1\\BouteilleMyTest\\BouteilleMyTest.csproj",
+        "projectPath": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\ExerciscesConceptObjet\\BouteilleMyTest\\BouteilleMyTest.csproj",
         "packagesPath": "C:\\Users\\Raph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raph\\GIT\\Algo\\ObjetPartie1\\BouteilleMyTest\\obj\\",
+        "outputPath": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\ExerciscesConceptObjet\\BouteilleMyTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

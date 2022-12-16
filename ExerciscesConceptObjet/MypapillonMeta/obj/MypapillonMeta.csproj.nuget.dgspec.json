@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raph\\GIT\\Algo\\ObjetPartie1\\2papillonMeta\\MypapillonMeta.csproj": {}
+    "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\ExerciscesConceptObjet\\MypapillonMeta\\MypapillonMeta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raph\\GIT\\Algo\\ObjetPartie1\\2papillonMeta\\MypapillonMeta.csproj": {
+    "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\ExerciscesConceptObjet\\MypapillonMeta\\MypapillonMeta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raph\\GIT\\Algo\\ObjetPartie1\\2papillonMeta\\MypapillonMeta.csproj",
+        "projectUniqueName": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\ExerciscesConceptObjet\\MypapillonMeta\\MypapillonMeta.csproj",
         "projectName": "MypapillonMeta",
-        "projectPath": "C:\\Users\\Raph\\GIT\\Algo\\ObjetPartie1\\2papillonMeta\\MypapillonMeta.csproj",
+        "projectPath": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\ExerciscesConceptObjet\\MypapillonMeta\\MypapillonMeta.csproj",
         "packagesPath": "C:\\Users\\Raph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raph\\GIT\\Algo\\ObjetPartie1\\2papillonMeta\\obj\\",
+        "outputPath": "C:\\Users\\Raph\\GIT\\AlgoExCDA22\\ExerciscesConceptObjet\\MypapillonMeta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

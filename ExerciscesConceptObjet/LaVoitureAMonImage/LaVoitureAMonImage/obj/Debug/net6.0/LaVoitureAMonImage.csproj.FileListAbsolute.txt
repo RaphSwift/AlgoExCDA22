@@ -1,0 +1,15 @@
+C:\Users\Raph\GIT\AlgoExCDA22\ExerciscesConceptObjet\LaVoitureAMonImage\LaVoitureAMonImage\obj\Debug\net6.0\LaVoitureAMonImage.csproj.AssemblyReference.cache
+C:\Users\Raph\GIT\AlgoExCDA22\ExerciscesConceptObjet\LaVoitureAMonImage\LaVoitureAMonImage\obj\Debug\net6.0\LaVoitureAMonImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raph\GIT\AlgoExCDA22\ExerciscesConceptObjet\LaVoitureAMonImage\LaVoitureAMonImage\obj\Debug\net6.0\LaVoitureAMonImage.AssemblyInfoInputs.cache
+C:\Users\Raph\GIT\AlgoExCDA22\ExerciscesConceptObjet\LaVoitureAMonImage\LaVoitureAMonImage\obj\Debug\net6.0\LaVoitureAMonImage.AssemblyInfo.cs
+C:\Users\Raph\GIT\AlgoExCDA22\ExerciscesConceptObjet\LaVoitureAMonImage\LaVoitureAMonImage\obj\Debug\net6.0\LaVoitureAMonImage.csproj.CoreCompileInputs.cache
+C:\Users\Raph\GIT\AlgoExCDA22\ExerciscesConceptObjet\LaVoitureAMonImage\LaVoitureAMonImage\bin\Debug\net6.0\LaVoitureAMonImage.exe
+C:\Users\Raph\GIT\AlgoExCDA22\ExerciscesConceptObjet\LaVoitureAMonImage\LaVoitureAMonImage\bin\Debug\net6.0\LaVoitureAMonImage.deps.json
+C:\Users\Raph\GIT\AlgoExCDA22\ExerciscesConceptObjet\LaVoitureAMonImage\LaVoitureAMonImage\bin\Debug\net6.0\LaVoitureAMonImage.runtimeconfig.json
+C:\Users\Raph\GIT\AlgoExCDA22\ExerciscesConceptObjet\LaVoitureAMonImage\LaVoitureAMonImage\bin\Debug\net6.0\LaVoitureAMonImage.dll
+C:\Users\Raph\GIT\AlgoExCDA22\ExerciscesConceptObjet\LaVoitureAMonImage\LaVoitureAMonImage\bin\Debug\net6.0\LaVoitureAMonImage.pdb
+C:\Users\Raph\GIT\AlgoExCDA22\ExerciscesConceptObjet\LaVoitureAMonImage\LaVoitureAMonImage\obj\Debug\net6.0\LaVoitureAMonImage.dll
+C:\Users\Raph\GIT\AlgoExCDA22\ExerciscesConceptObjet\LaVoitureAMonImage\LaVoitureAMonImage\obj\Debug\net6.0\refint\LaVoitureAMonImage.dll
+C:\Users\Raph\GIT\AlgoExCDA22\ExerciscesConceptObjet\LaVoitureAMonImage\LaVoitureAMonImage\obj\Debug\net6.0\LaVoitureAMonImage.pdb
+C:\Users\Raph\GIT\AlgoExCDA22\ExerciscesConceptObjet\LaVoitureAMonImage\LaVoitureAMonImage\obj\Debug\net6.0\LaVoitureAMonImage.genruntimeconfig.cache
+C:\Users\Raph\GIT\AlgoExCDA22\ExerciscesConceptObjet\LaVoitureAMonImage\LaVoitureAMonImage\obj\Debug\net6.0\ref\LaVoitureAMonImage.dll

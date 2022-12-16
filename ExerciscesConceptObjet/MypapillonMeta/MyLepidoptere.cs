@@ -24,7 +24,7 @@ namespace MyPapillonMeta
 
         public override string ToString()
         {
-            return myStadeCourant.ToString();
+            return base.ToString() + " myStadeCourant= " + myStadeCourant.ToString();
         }
     }
 }
