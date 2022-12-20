@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ThirdExoMetaPapillon
 {
-    public class Chenille
+    public class Chenille : StadeEvolution
     {
         public Chenille() { }
         public override string SeDeplacer()
@@ -15,7 +15,7 @@ namespace ThirdExoMetaPapillon
         }
         public override StadeEvolution SeMetamorphoser()
         {
-            return Chrysalide;
+            return new Chrysalide();
         }
     }
 }

@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace ThirdExoMetaPapillon
 {
-    internal class Chrysalide
+    public class Chrysalide : StadeEvolution
     {
+        public Chrysalide() { }
+        public override string SeDeplacer()
+        {
+            return "Is hung.";
+        }
+        public override StadeEvolution SeMetamorphoser()
+        {
+            return new Papillon();
+        }
     }
 }

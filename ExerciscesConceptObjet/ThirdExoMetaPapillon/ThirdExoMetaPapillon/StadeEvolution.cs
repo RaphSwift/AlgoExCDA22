@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ThirdExoMetaPapillon
 {
-    internal class StadeEvolution
+    public abstract class StadeEvolution
     {
+        public StadeEvolution() { }
+        public abstract string SeDeplacer();
+
+        public abstract StadeEvolution SeMetamorphoser();
     }
+    
 }
