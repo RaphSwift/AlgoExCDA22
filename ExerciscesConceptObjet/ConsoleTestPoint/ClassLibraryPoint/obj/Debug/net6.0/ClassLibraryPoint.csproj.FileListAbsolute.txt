@@ -1,0 +1,12 @@
+C:\Users\RChristian\Documents\GitHub\AlgoExCDA22\ExerciscesConceptObjet\ConsoleTestPoint\ClassLibraryPoint\obj\Debug\net6.0\ClassLibraryPoint.csproj.AssemblyReference.cache
+C:\Users\RChristian\Documents\GitHub\AlgoExCDA22\ExerciscesConceptObjet\ConsoleTestPoint\ClassLibraryPoint\obj\Debug\net6.0\ClassLibraryPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RChristian\Documents\GitHub\AlgoExCDA22\ExerciscesConceptObjet\ConsoleTestPoint\ClassLibraryPoint\obj\Debug\net6.0\ClassLibraryPoint.AssemblyInfoInputs.cache
+C:\Users\RChristian\Documents\GitHub\AlgoExCDA22\ExerciscesConceptObjet\ConsoleTestPoint\ClassLibraryPoint\obj\Debug\net6.0\ClassLibraryPoint.AssemblyInfo.cs
+C:\Users\RChristian\Documents\GitHub\AlgoExCDA22\ExerciscesConceptObjet\ConsoleTestPoint\ClassLibraryPoint\obj\Debug\net6.0\ClassLibraryPoint.csproj.CoreCompileInputs.cache
+C:\Users\RChristian\Documents\GitHub\AlgoExCDA22\ExerciscesConceptObjet\ConsoleTestPoint\ClassLibraryPoint\bin\Debug\net6.0\ClassLibraryPoint.deps.json
+C:\Users\RChristian\Documents\GitHub\AlgoExCDA22\ExerciscesConceptObjet\ConsoleTestPoint\ClassLibraryPoint\bin\Debug\net6.0\ClassLibraryPoint.dll
+C:\Users\RChristian\Documents\GitHub\AlgoExCDA22\ExerciscesConceptObjet\ConsoleTestPoint\ClassLibraryPoint\bin\Debug\net6.0\ClassLibraryPoint.pdb
+C:\Users\RChristian\Documents\GitHub\AlgoExCDA22\ExerciscesConceptObjet\ConsoleTestPoint\ClassLibraryPoint\obj\Debug\net6.0\ClassLibraryPoint.dll
+C:\Users\RChristian\Documents\GitHub\AlgoExCDA22\ExerciscesConceptObjet\ConsoleTestPoint\ClassLibraryPoint\obj\Debug\net6.0\refint\ClassLibraryPoint.dll
+C:\Users\RChristian\Documents\GitHub\AlgoExCDA22\ExerciscesConceptObjet\ConsoleTestPoint\ClassLibraryPoint\obj\Debug\net6.0\ClassLibraryPoint.pdb
+C:\Users\RChristian\Documents\GitHub\AlgoExCDA22\ExerciscesConceptObjet\ConsoleTestPoint\ClassLibraryPoint\obj\Debug\net6.0\ref\ClassLibraryPoint.dll
